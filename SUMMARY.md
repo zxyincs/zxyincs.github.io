@@ -1,4 +1,5 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
-
+* [Probabilistic Machine Learning](README.md)
+  * [II Linear Models](readme/ii-linear-models/README.md)
+    * [Logistic Regression](readme/ii-linear-models/logistic-regression.md)
